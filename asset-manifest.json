@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Notely/static/css/main.447d8201.css",
+    "main.js": "/Notely/static/js/main.853266b0.js",
+    "static/js/787.3d42a6f6.chunk.js": "/Notely/static/js/787.3d42a6f6.chunk.js",
+    "static/media/book.jpg": "/Notely/static/media/book.ce12a38b61eb5a708c16.jpg",
+    "static/media/icon.webp": "/Notely/static/media/icon.a8d90bcd889460ef5818.webp",
+    "static/media/logo.svg": "/Notely/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Notely/index.html",
+    "main.447d8201.css.map": "/Notely/static/css/main.447d8201.css.map",
+    "main.853266b0.js.map": "/Notely/static/js/main.853266b0.js.map",
+    "787.3d42a6f6.chunk.js.map": "/Notely/static/js/787.3d42a6f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447d8201.css",
+    "static/js/main.853266b0.js"
+  ]
+}
